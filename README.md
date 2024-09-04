@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on innovative Machine Learning, Deep Learning, and AI solutions with a special focus on Cyber Security Applications.<br>👯 I’m looking to collaborate on cutting-edge projects that push the boundaries of technology in fields like AI-driven security, ethical hacking, and intelligent threat detection.<br>🤝 I’m looking for help with connecting with experts in AI ethics, cryptography, and real-time data analytics to enhance my research and development.<br>🌱 I’m currently learning advanced neural network architectures, quantum computing fundamentals, and their implications in cybersecurity.<br>💬 Ask me about how AI can revolutionize cybersecurity, the latest in adversarial machine learning, or the challenges of securing AI-driven systems.<br>⚡ Fun fact: When I'm not coding or exploring AI, you'll find me unraveling mysteries of the universe, one sci-fi book at a time!
+🔭 I’m currently working on innovative Machine Learning, Deep Learning, and AI solutions with a special focus on Cyber Security Applications.<br>
+👯 I’m looking to collaborate on cutting-edge projects that push the boundaries of technology in fields like AI-driven security, ethical hacking, and intelligent threat detection.<br>
+🤝 I’m looking for help with connecting with experts in AI ethics, cryptography, and real-time data analytics to enhance my research and development.<br>
+🌱 I’m currently learning advanced neural network architectures, quantum computing fundamentals, and their implications in cybersecurity.<br>
+💬 Ask me about how AI can revolutionize cybersecurity, the latest in adversarial machine learning, or the challenges of securing AI-driven systems.<br>
+⚡ Fun fact: When I'm not coding or exploring AI, you'll find me unraveling mysteries of the universe, one sci-fi book at a time!
 
 
 ## 🌐 Socials:

@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on innovative Machine Learning, Deep Learning, and AI solutions with a special focus on Cyber Security Applications.<br>
-👯 I’m looking to collaborate on cutting-edge projects that push the boundaries of technology in fields like AI-driven security, ethical hacking, and intelligent threat detection.<br>
-🤝 I’m looking for help with connecting with experts in AI ethics, cryptography, and real-time data analytics to enhance my research and development.<br>
-🌱 I’m currently learning advanced neural network architectures, quantum computing fundamentals, and their implications in cybersecurity.<br>
-💬 Ask me about how AI can revolutionize cybersecurity, the latest in adversarial machine learning, or the challenges of securing AI-driven systems.<br>
-⚡ Fun fact: When I'm not coding or exploring AI, you'll find me unraveling mysteries of the universe, one sci-fi book at a time!
+## 💫 About Me:
+
+🔭 <img src="https://img.shields.io/badge/Machine%20Learning-3670A0?style=plastic&logo=python&logoColor=white" height="40" /> I’m on a thrilling journey, pioneering **cutting-edge innovations in Machine Learning, Deep Learning, and AI** with a laser focus on **Cyber Security Applications**. I’m pushing the boundaries of what’s possible, turning ideas into breakthroughs.<br>  
+👯 <img src="https://img.shields.io/badge/Collaboration-FF4500?style=plastic&logo=git&logoColor=white" height="40" /> I’m eager to **collaborate on groundbreaking projects** that challenge the status quo in areas like **AI-driven security, ethical hacking, and intelligent threat detection**. Let's build the future together!<br>  
+🤝 <img src="https://img.shields.io/badge/Networking-0066CC?style=plastic&logo=linkedin&logoColor=white" height="40" /> I’m seeking to **connect with experts and visionaries** in **AI ethics, cryptography, and real-time data analytics** to amplify the impact of my research and development.<br>  
+🌱 <img src="https://img.shields.io/badge/Learning-32CD32?style=plastic&logo=education&logoColor=white" height="40" /> I’m constantly expanding my horizons, currently diving deep into **advanced neural network architectures**, exploring the frontiers of **quantum computing**, and unraveling their vast potential in cybersecurity.<br>  
+💬 <img src="https://img.shields.io/badge/Discussion-FF69B4?style=plastic&logo=discourse&logoColor=white" height="40" /> Curious about how **AI can revolutionize cybersecurity**? Want to discuss the latest in **adversarial machine learning** or explore the **challenges of securing AI-driven systems**? Let’s talk—innovation starts with conversation.<br>  
+⚡ <img src="https://img.shields.io/badge/Fun%20Fact-FFD700?style=plastic&logo=smile&logoColor=white" height="40" /> **Fun fact**: When I’m not deep in code or exploring AI, you’ll find me adventuring through the cosmos, one **sci-fi book** at a time. The universe is full of mysteries waiting to be uncovered!
 
 
 ## 🌐 Socials:

@@ -49,5 +49,6 @@ When not immersed in the digital matrix, you'll find me lost in the pages of a s
 ---
 
 Remember, in the grand simulation of life, we're all just trying to avoid buffer overflows and null pointer exceptions. Stay curious, keep coding, and may your commits always be merge conflict-free! 🖖
+
 [![](https://visitcount.itsvg.in/api?id=Pirate-960&icon=10&color=1)](https://visitcount.itsvg.in)
 ---

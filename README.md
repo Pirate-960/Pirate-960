@@ -39,13 +39,6 @@ When not immersed in the digital matrix, you'll find me lost in the pages of a s
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pirate-960&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pirate-960&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
 ---
 
 Remember, in the grand simulation of life, we're all just trying to avoid buffer overflows and null pointer exceptions. Stay curious, keep coding, and may your commits always be merge conflict-free! 🖖

@@ -1,4 +1,1 @@
-On Break...!
-Just kidding...!
-Damn...!
-Another Day...!
+Life is either a daring adventure or nothing...!
